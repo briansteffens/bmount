@@ -1,0 +1,2 @@
+RAWDEV="/dev/rawdevice"
+MOUNT="/mnt/mountpoint"

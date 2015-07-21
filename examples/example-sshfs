@@ -1,0 +1,4 @@
+ALLOWSU=false
+ALLOWNONSU=true
+MOUNTCMD="sshfs user@hostname.com:/path/to/share /mnt/mountpoint -C"
+UMOUNTCMD="fusermount -u /mnt/mountpoint"

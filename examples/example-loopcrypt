@@ -1,0 +1,3 @@
+LOOPBACKFILE="/home/user/loopbackfile"
+CRYPTDEV="cryptdevice"
+MOUNT="/mnt/mountpoint"

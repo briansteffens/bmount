@@ -1,0 +1,3 @@
+RAWDEV="/dev/rawdevice"
+CRYPTDEV="cryptdevice"
+MOUNT="/mnt/cryptmount"
